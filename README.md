@@ -1,5 +1,5 @@
 # Analyse-Predictive-de-l-Attrition-pour-HumanForYou
-Une entreproise emploie environ 4000 personnes. Cependant, chaque année, elle connaît un taux de rotation d'environ 15 % de ses employés, ce qui nécessite de trouver des profils similaires sur le marché de l'emploi.
+Une entreprise emploie environ 4000 personnes. Cependant, chaque année, elle connaît un taux de rotation d'environ 15 % de ses employés, ce qui nécessite de trouver des profils similaires sur le marché de l'emploi.
 
 La direction considère que ce niveau de rotation n'est pas bénéfique pour l'entreprise pour les raisons suivantes :
 
